@@ -27,22 +27,33 @@ factorial. Return the result as a list.
 4. Write a function that takes a number(>=10) as an input and return the digits of
 the number as a set.
 
-5.Writeafunctionthatfindsthesum ofthentermsofthefollowingseries.
-Importthefactorialfunctioncreatedinquestion4.
-1–x2/2!+x4/4!–x6/6!+…xn/n!
+5. Write a function that finds the sum of then terms of the following series.
+Import the factorial function created in question 4.
 
-6.Consideratuplet1={1,2,5,7,9,2,4,6,8,10}.Writeaprogram toperform following
+    1 – x2 / 2! + x4 / 4! – x6 / 6! + … xn / n!
+
+6. Consider a tuplet1 = {1,2,5,7,9,2,4,6,8,10}. Write a program to perform following
 operations:
-a)Printanothertuplewhosevaluesareevennumbersinthegiventuple.
-b)Concatenateatuplet2={11,13,15)witht1.
-c)Returnmaximumandminimumvaluefromthistuple.
 
-7.Writeamenudrivenprogramtoperformthefollowingonstrings:
-a)Findthelengthofstring.
-b)Returnmaximumofthreestrings.
-c)Acceptastringandreplaceallvowelswith“#”
-d)Findnumberofwordsinthegivenstring.
-e)Checkwhetherthestringisapalindromeornot.
+    a) Print another tuple whose values are even numbers in the given tuple.
+
+    b) Concatenate a tuplet2 = {11,13,15) with t1.
+
+    c) Return maximum and minimum value from this tuple.
+
+
+7. Write a menu driven program to perform the following on strings :
+
+   a) Find the length of string.
+ 
+   b) Return maximum of three strings. 
+ 
+   c) Accept a string and replace all vowels with “#” 
+ 
+   d) Find number of words in the given string. 
+ 
+   e) Check whether the string is a palindrome or not.
+ 
 
 8.WriteaPythonprogramtoperformthefollowingusinglist:
 a)Checkifallelementsinlistarenumbersornot.
