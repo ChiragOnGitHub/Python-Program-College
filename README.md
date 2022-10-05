@@ -55,25 +55,34 @@ operations:
    e) Check whether the string is a palindrome or not.
  
 
-8.WriteaPythonprogramtoperformthefollowingusinglist:
-a)Checkifallelementsinlistarenumbersornot.
-b)Ifitisanumericlist,thencountnumberofoddvaluesinit.
-c)IflistcontainsallStrings,thendisplaylargestStringinthelist.
-d)Displaylistinreverseform.
-e)Findaspecifiedelementinlist.
-f)Removethespecifiedelementfromthelist.
-g)Sortthelistindescendingorder.
-h)accept2listsandfindthecommonmembersinthem.
+8. Write a Python program to perform the following using list:
 
-9.Usedictionarytostoremarksofthestudentsin4subjects.Writeafunctionto
-findthenameofthestudentsecuringhighestpercentage.(Hint:Namesof
-studentsareunique).
+    a) Check if all elements in list are numbers or not.
 
-10.Writeafunctionthattakesasentenceasinputfrom theuserandcalculates
-thefrequencyofeachletter.Useavariableofdictionarytypetomaintainthe
+    b) If it is a numeric list, then count number of odd values in it.
+
+    c) If list contains all Strings, then display largest String in the list.
+
+    d) Display list in reverse form.
+
+    e) Find a specified element in list.
+
+    f) Remove the specified element from the list.
+
+    g) Sort the list in descending order.
+
+    h) accept 2 lists and find the common members in them.
+
+9. Use dictionary to store marks of the students in 4 subjects. Write a function to
+find the name of the student securing highest percentage.
+    (Hint : Names of students are unique).
+
+10. Write a function that takes a sentence as input from the user and calculates the frequency of each letter. Use a variable of dictionary type to maintain the
 count.
 
-11.Writeamenu-drivenprogram toacceptalistofstudentnamesandperform
-thefollowing
-a.searchanelementusinglinearsearch/binarysearch.
-b.Sorttheelementsusingbubblesort/insertionsort/selectionsort
+11. Write a menu-driven program to accept a list of student names and perform
+the following 
+
+    a. search an element using linear search / binary search.
+    
+    b. Sort the elements using bubble sort / insertion sort / selection sort.
